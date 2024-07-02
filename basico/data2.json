@@ -1,0 +1,38 @@
+[
+    {
+        "name": "John Doe",
+        "age": 30,
+        "city": "New York",
+        "skills": ["Python", "Machine Learning", "Web Development"]
+    },
+    {
+        "name": "Jiry ",
+        "age":85,
+        "city": "San Francisco",
+        "skills": ["Mobile Development"]
+    },
+    {
+        "name": "Doe",
+        "age": 10,
+        "city": "New York",
+        "skills": ["Python", "Machine Learning", "Web Development"]
+    },
+    {
+        "name": "Jane Smith",
+        "age": 25,
+        "city": "San Francisco",
+        "skills": ["Java", "Data Science", "Mobile Development"]
+    },
+    {
+        "name": "lory",
+        "age": 30,
+        "city": "Madrid",
+        "skills": ["Python", "Machine Learning", "Web Development"]
+    },
+    {
+        "name": "Jane Will",
+        "age": 19,
+        "city": "Australia",
+        "skills": ["Java", "Mobile Development"]
+    }
+]
